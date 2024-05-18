@@ -1,0 +1,20 @@
+﻿AudioCatalog
+
+
+winexe
+C#
+.cs
+D:\.VISUAL PROJECTS\AudioCatalog\AudioCatalog\obj\Debug\net7.0-windows\
+AudioCatalog
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+D:\.VISUAL PROJECTS\AudioCatalog\AudioCatalog\App.xaml
+71380494793
+1-1454923603
+36-2098622407
+245879691834
+Views\AddAlbumView.xaml;Views\AddArtistView.xaml;Views\AddTrackView.xaml;Views\LoginWindow.xaml;Views\MusicCatalogWindow.xaml;Views\OpenAlbumWindow.xaml;Views\RegisterWindow.xaml;
+
+False
+
